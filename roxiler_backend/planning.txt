@@ -1,0 +1,12 @@
+
+
+
+first i need to create a main end point in backend to initilizes
+the data as a seed data then 
+then store that data in mongodb schema
+
+
+end points
+1st end point to display the list of transaction
+2nd end point to to show the statics total amount of sale and etc
+3rd api to show the chart of sales in specefic month
